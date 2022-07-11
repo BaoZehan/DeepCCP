@@ -25,6 +25,10 @@ Access Code：tiou
 python train.py 
 ```
 
+- Download the citrus peel color transition dataset(.jpg). 
+Check [here](https://pan.baidu.com/s/1zcMxKr99TCR7NYcgUeQflg?pwd=17et). 
+Access Code：17et 
+
 - Test the model:
 ```bash
 python pre_plot.py 
