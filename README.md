@@ -1,4 +1,4 @@
-<img src='outtest/test.gif' align="right" width=200>
+<img src='outtest/test.gif' align="right" width=180>
 
 <br><br><br>
 
