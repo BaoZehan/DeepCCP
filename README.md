@@ -1,3 +1,7 @@
+<img src='outtest/test.gif' align="right" width=200>
+
+<br><br><br>
+
 # DeepCCP
 ## Prerequisites
 - Python 3
